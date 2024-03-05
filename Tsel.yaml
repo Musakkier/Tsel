@@ -1,0 +1,7 @@
+payload:
+ # Telkomsel
+  - DOMAIN-KEYWORD,telkomsel
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,my.telkomsel.com
+  - DOMAIN-SUFFIX,tdwcontent.telkomsel.com
+  - PROCESS-NAME,com.telkomsel.telkomselcm
