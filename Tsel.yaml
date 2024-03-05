@@ -1,3 +1,6 @@
+#version: 1.0
+#title: Domain Telkomsel
+#title
 payload:
  # Telkomsel
   - DOMAIN-KEYWORD,telkomsel
